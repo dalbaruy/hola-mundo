@@ -1,7 +1,7 @@
 # hola-mundo
 waaaw!! mi primer repositorio alojado en la nube(empezando las lluvias de codigo fuente *--* abr2022)
 ## Los Primeros Pasos hasta aqui
-esta es una lista ordenada con los pasos que he realizado en mi cuentea de Gitub *(el dia 09/04/2022)* 
+esta es una lista ordenada con los pasos que he realizado en mi cuenta de Gitub *(el dia 09/04/2022)* 
 1. Creacion de la cuenta GitHub **super facil** y la interface WEB me encanto tenia unos efectos galacticos, me senti entrando a otro *planeta Cosmico de Codigo*!jeje
 2. Creacion del primer repositorio de *prueba: HolaMundo* con la rama principal **Main** (*por defecto*) pude haber cambiando las preferencias por ejemplo a **master** *(el dia 09/04/2022)*
 3. Creacion de la primera rama (*Edicion del readmi*) en donde estamos actualmente escribiendo esta descripcion. *(el dia 09/04/2022)*
@@ -10,10 +10,11 @@ esta es una lista ordenada con los pasos que he realizado en mi cuentea de Gitub
 ### Practicas del etiquetado MarkDown de GitHub
 esta una lista *no ordenada*(modo Italico de texto) y tambien el **Negrita** para resaltar tambien
 - previamente se ha realizado el trabajo de control de versionado de codigo de forma local con git
-- primero se adquirio git en la pagina [title](https://git-scm.com/download/win)  la version (2.35.1) para 64-bit a la fecha actual
-- segundo se adquirio el libro de guia para entender a profundidad el manejo de git en este enlace [title](https://git-scm.com/book/en/v2)
+- primero se adquirio git en la [pagina](https://git-scm.com/download/win)  >(https://git-scm.com/download/win) la version (2.35.1) para 64-bit a la fecha actual.
+- segundo se adquirio el libro de guia para entender a profundidad el manejo de git en este  [enlace](https://git-scm.com/book/en/v2) >(https://git-scm.com/book/en/v2)
 - luego se creo un proyecto de prueba en mi caso uno de c-sharp 
-- segundo se realizo una practica con el **Git Bash** y los comandos de codigo basico que se resumen en la siguiente tabla
+- segundo se realizo una practica con el **Git Bash** y los comandos de codigo basico que se resumen en la siguiente tabla:
+
 | comando git | Descripcion |
 | ----------- | ----------- |
 | git status  | examina el estado del repositoro(archivos y/o directorios modificados y no incluidos desde el ultimo *commit* |
