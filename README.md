@@ -18,11 +18,14 @@ esta una lista *no ordenada*(modo Italico de texto) y tambien el **Negrita** par
 | comando git | Descripcion |
 | ----------- | ----------- |
 | git status  | examina el estado del repositoro(archivos y/o directorios modificados y no incluidos desde el ultimo *commit* |
-| git ini     | para crear un nuevo repositorio local el cual se aplicara un proyecto de software existente o nuevo |
-| git config --global user.name | crea el nombre ID del autor de las acciones realizadas a los repositorios locales de GIT |
-| git config --global user.email | crea el correo de contacto del autor de las acciones realizadas a los repositorios locales de GIT |
-| git add     | adiciona un archivo al *directorio de trabajo de GIT* esto registra los cambios sobre el archivo |
-| git diff    | para revisar las modificaciones que le corren a un archhivo desde el ultimo punto de control |
+| git init    | para crear un nuevo repositorio local el cual se aplicara un proyecto de software existente o nuevo |
+| git config --global user.name | crea el nombre ID general del autor de todos los repositorios locales de GIT; ej: *git config --global user.name "dalbaruy"* |
+| git config --global user.email | crea el correo General del autor de todos los repositorios locales de GIT; ej: *git config --global user.email "dalbaruy@gmail.com"*|
+| git config user.name | crea el nombre del autor de un repositorio particular de GIT; ej: *git config user.name "otroMombre"* |
+| git config user.email | crea el correo del autor para un repositorio en particuar *git config user.email "otroCorreo@yahoo.es.com"*|
+| git config --list| hace un listado con todas las configuraciones del repositorio actual | 
+| git add     | adiciona un archivo al *Area Staging(o area de Ensayos) de GIT* esto registra los cambios sobre el archivo preparando los cambios para commitear; por ejemplo *git add nombreArchivo* o bien *git add .* ,agrega todos los archivos de la carpeta|
+| git diff    | par*a revisa*r las modi,agrega todos los archivos de la carpetaficaciones que le corren a un archhivo desde el ultimo punto de control |
 | git branch  | para crear o verificar las ramas existentes , nota: una rama(que es una version nueva del codigo) |
 | git checkout| para entrar a una rama |
 | git commit  | para crear un punto de control de la rama esto almacena localmante todo el codigo que esta adicionado a la rama |
